@@ -1,3 +1,3 @@
 <footer>
-    <h2>Sono il footer</h2>
+    <p>Made with love by Albi</p>
 </footer>
